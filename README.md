@@ -7,7 +7,8 @@ This repository contains Create-Read-Update-Delete(CRUD) operation using FastAPI
 Fast API provides an interactive API that’s brought to us by swagger UI.
 To see it in action, add `/docs#` to the end of the URL we set for our first route.
 
-![image](https://user-images.githubusercontent.com/81233305/173819401-7eafb0bc-2e11-44e5-aeac-d63d18ec77e8.png)
+![image](https://user-images.githubusercontent.com/81233305/173826805-40903ca3-f121-4a7e-9df3-6146c33bdc86.png)
+
 
 # Recap:
 ````
